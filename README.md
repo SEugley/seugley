@@ -6,7 +6,4 @@ As a Data Scientist with a strong academic and research background in life scien
 
 When I’m not diving into data, you’ll likely find me hitting the trails for a run, playing fetch with my dog in the yard, or in pursuit of a good cup of coffee!  
 
-### 🗂️ Projects
-
-Check out my [portfolio](https://seugley.github.io/portfolio/)
-
+Take a look at my [portfolio](https://seugley.github.io/portfolio/)
