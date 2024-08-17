@@ -10,7 +10,7 @@ As a Data Scientist with a strong academic and research background in life scien
   * Libraries: ggplot2, Matplotlib, Seaborn, tmap
   * Spatial Data: Shapefiles, interactive maps
 * Artificial Intelligence (AI) and Machine Learning (ML):
-  * Frameworks/Libraries: TensorFlow, Keras, PyTorch, scikit-learn
+  * Frameworks/Libraries: TensorFlow, Keras, scikit-learn
   * Techniques:
     * Machine Learning: Classification, Regression, Clustering, Dimensionality Reduction
     * Deep Learning Neural Networks
