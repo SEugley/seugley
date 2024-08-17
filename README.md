@@ -19,4 +19,4 @@ As a Data Scientist with a strong academic and research background in life scien
 
 ### Projects
 * Take a look at my [Portfolio](https://github.com/SEugley/portfolio)
-* Check out what I'm [currently working on](https://github.com/SEugley/portfolio/tree/main/current_project)
+* Check out what I'm currently [working on](https://github.com/SEugley/portfolio/tree/main/current_project)
