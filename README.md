@@ -18,5 +18,5 @@ As a Data Scientist with a strong academic and research background in life scien
 * Web APIs: Integrating and utilization of web APIs for data retrieval and interaction
 
 ### Projects
-* Take a look at some of my projects: [Portfolio](https://github.com/SEugley/portfolio)
+* Take a look at my [Portfolio](https://github.com/SEugley/portfolio)
 * What I'm currently working on: [Current Project](https://github.com/SEugley/portfolio/tree/main/current_project)
