@@ -14,5 +14,5 @@ As a Data Scientist with a strong academic and research background in life scien
   * Techniques:
     * Machine Learning: Classification, Regression, Clustering, Dimensionality Reduction
     * Deep Learning Neural Networks
-    * Modeling: Training, tuning, evaluation, hyperparameter optimization
+    * Model training, tuning, evaluation, and hyperparameter optimization
 * Web APIs: Integrating and utilization of web APIs for data retrieval and interaction
