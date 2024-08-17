@@ -16,3 +16,5 @@ As a Data Scientist with a strong academic and research background in life scien
     * Deep Learning Neural Networks
     * Model training, tuning, evaluation, and hyperparameter optimization
 * Web APIs: Integrating and utilization of web APIs for data retrieval and interaction
+
+[Check out my project portfolio](https://github.com/SEugley/portfolio)
