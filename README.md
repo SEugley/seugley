@@ -8,5 +8,5 @@ When I’m not diving into data, you’ll likely find me hitting the trails for 
 
 ### 🗂️ Projects
 
-Take a look at my [portfolio](https://seugley.github.io/portfolio/) 👀
+Check out my [portfolio](https://seugley.github.io/portfolio/)
 
