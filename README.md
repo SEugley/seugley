@@ -6,4 +6,11 @@ As a Data Scientist with a strong academic and research background in life scien
 
 When I’m not diving into data, you’ll likely find me hitting the trails for a run, playing fetch with my dog in the yard, or in pursuit of a good cup of coffee!  
 
+### ⚒️ Projects and Technical Skills
 check out my [portfolio](https://seugley.github.io/portfolio/) to see what I've been working on!
+* Languages: R, Python
+* Visualization: Tableau, Shiny
+* Technical Skills: Data Cleaning and Prerocessing, Machine Learning, Statistical Analysis, Predictive Modeling
+
+### 📫 Contact
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/scott-eugley-510651264) or email me at scott.eugley@gmail.com
