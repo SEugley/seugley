@@ -1,4 +1,9 @@
-## 👋 Hello and welcome!
+## 👋 Hello
+
+👨‍💻 About Me
+I'm Scott Eugley, a Data Scientist with a strong foundation in life sciences, specializing in health-related data analysis. With a background in human biology and chemistry, I recently earned a Master’s degree in Data Science. My passion lies in leveraging data to drive impactful insights in healthcare, with the ultimate goal of improving patient outcomes.
+
+I enjoy working on projects that blend my expertise in data science with my interest in healthcare, whether it's predicting patient readmissions, analyzing social determinants of health, or developing models to enhance clinical decision-making. When I'm not coding or analyzing data, you can find me exploring the latest trends in machine learning and AI.
 
 <!--
 **SEugley/seugley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
