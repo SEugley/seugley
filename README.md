@@ -18,5 +18,5 @@ As a Data Scientist with a strong academic and research background in life scien
 * Web APIs: Integrating and utilization of web APIs for data retrieval and interaction
 
 ### Projects
-* Take a look at my [Portfolio](https://github.com/SEugley/portfolio)
+* Take a look at my [portfolio](https://github.com/SEugley/portfolio)
 * Check out what I'm currently [working on](https://github.com/adelinecasali4/hospital-readmission)
